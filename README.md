@@ -73,11 +73,22 @@ Pinia - <https://pinia.vuejs.org/zh/>
 
 ## 算法
 
-leetcode - <https://github.com/azl397985856/leetcode>
+### leetcode
+
+<https://leetcode.cn/problemset/all/>
+<https://github.com/azl397985856/leetcode>
+
+### github
+
+algorithms - <https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md>
+
+### HUAWEI
+
+<https://wiki.amoscloud.com/zh/ProgramingPractice/NowCoder/Adecco/Index>
 
 ### Python
 
-麻省理工大学
+MIT - python理论基础
 <https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/>
 
 ## 技术博客
